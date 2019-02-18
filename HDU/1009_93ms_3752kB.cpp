@@ -18,7 +18,7 @@ int main()
 	{
 		if (m==-1 && n==-1)
 			return 0;
-		ans = 0.000000;
+		ans = 0;
 		memset(c, 0, sizeof(c));
 		for (i = 0; i < n; i++)
 		{
