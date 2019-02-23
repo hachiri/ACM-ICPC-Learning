@@ -1,5 +1,6 @@
-//0ms_288kB
-#include <bits/stdc++.h>
+//0ms_184kB
+#include <algorithm>
+#include <cstdio>
 using namespace std;
 
 int main()
